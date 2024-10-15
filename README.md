@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="149" src="https://pin.it/7wQZhCkYF"/>
+<img align="right" height="149" src="![Без названия](https://github.com/user-attachments/assets/ff25bb4e-0653-4e65-b79a-1ca1e883279a)"/>
 
 ###
 
