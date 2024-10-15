@@ -1,15 +1,14 @@
-<h2 align="left">Hi 👋! My name is Behruz and I'm a Software Developer, from Uzbekistan</h2>
+<h2 align="center">Hi 👋! My name is Behruz and I'm a Software Developer, from Uzbekistan</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bekiake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bekiake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img align="right" height="149" src="![Без названия](https://github.com/user-attachments/assets/ff25bb4e-0653-4e65-b79a-1ca1e883279a)"/>
+<img align="right" height="149" src="https://github.com/user-attachments/assets/ff25bb4e-0653-4e65-b79a-1ca1e883279a" alt="your image"/>
 
 ###
 
