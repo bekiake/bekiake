@@ -13,7 +13,9 @@
 　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
 
 ###
+<hr>
 
+### Skills
 <img align="right" width="149" height="149" src="https://github.com/user-attachments/assets/ff25bb4e-0653-4e65-b79a-1ca1e883279a" alt="your image"/>
 
 ###
@@ -35,7 +37,9 @@
 </div>
 
 ###
+<hr>
 
+### Socials
 <div align="left">
   <a href="https://instagram.com/beki_ake_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"/>
